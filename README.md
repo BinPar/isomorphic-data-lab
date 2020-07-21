@@ -1,3 +1,3 @@
-# TypeScript Next Boilerplate
+# Isomorphic Data Lab
 
-TypeScript Next Boilerplate
+Testing of next js models for isomorphic rendering and data hydration

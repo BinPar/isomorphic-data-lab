@@ -1,7 +1,7 @@
 {
-  "name": "ts-next-boilerplate",
+  "name": "isomorphic-data-lab",
   "version": "1.0.0",
-  "description": "TypeScript Next Boilerplate",
+  "description": "Isomorphic Data Lab",
   "scripts": {
     "dev": "next",
     "build": "next build",
