@@ -6,7 +6,7 @@ import styled from 'styled-components';
 import fetcher from '../libs/fetcher';
 
 
-const pokemonListAPI = 'https://pokeapi.co/api/v2/pokemon/';
+const pokemonListAPI = 'https://pokeapi.co/api/v2/pokemon/?limit=2000';
 
 interface Pokemon {
   name: string;

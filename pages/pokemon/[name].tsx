@@ -4,7 +4,7 @@ import useSWR from 'swr';
 import { useRouter } from 'next/router';
 import fetcher from '../../libs/fetcher';
 
-const pokemonListAPI = 'https://pokeapi.co/api/v2/pokemon/';
+const pokemonListAPI = 'https://pokeapi.co/api/v2/pokemon/?limit=2000';
 
 interface Pokemon {
   name: string;
